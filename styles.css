@@ -1,0 +1,252 @@
+/*CSS Styles for RESUME ILHAM*/
+
+
+
+.background {
+    
+    text-align: center;
+   
+}
+
+body {
+    background-color:rgba(52,53,65);
+    padding: 20px;
+    
+    
+}
+
+p {
+    margin: auto;
+}
+
+a {
+   color:aliceblue;
+   text-decoration: none; 
+   font-family: sans-serif;
+}
+
+a:hover {
+    color: rgba(71, 16, 223, 0.425);
+}
+
+a::shadow {
+    color: aliceblue;
+}
+
+h3 {
+    text-align: left;
+}
+
+
+
+.edu {
+    margin-left: 40px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.year {
+  padding: 10px 20px 10px 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.DP {
+    width: 50;
+    height: 50;
+    margin-top: -30px;
+    margin-bottom: 10px;
+    
+    
+}
+
+.header {
+    display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background-color: #6d466b;
+  }
+
+  .link {
+    margin-right: 10px;
+    font-family: sans-serif;
+  }
+
+  .container_1 {
+    background-color: rgba(240, 240, 240, 0.301);
+    padding-inline: 10px;
+    font-family: sans-serif;
+    padding: 5px;
+    padding-top: 1px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 510px;
+    text-align: left;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-size: 14px;
+  }
+
+ 
+  
+
+  .left {
+    text-align: left;
+    width: 75%;
+    display: inline;
+  }
+  
+  .right {
+    text-align: right;
+    width: 25%;
+    display: inline;
+  }
+  
+  .top_link {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 8px 16px;
+    background-color: #cccccc00;
+    border-color: #ccc;
+    transition: all 1s ease-out;
+  }
+
+  .desc {
+    
+    text-align: justify;
+    padding: 10px 20px 10px 20px;
+    max-width: 710px;
+    font-family: Roboto, sans-serif;
+    display: block;
+    margin: 10px auto 20px auto;
+    max-width: 510px;
+    text-align: left;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-size: 14px;
+    background-color: #cccccc5a;
+  }
+
+  p {
+    color: aliceblue;
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+  }
+
+  h1 {
+    color: aliceblue;
+    font-family: Roboto, sans-serif;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+
+  h2 {
+    color: aliceblue;
+    font-family: Roboto, sans-serif;
+   
+  }
+
+  h3 {
+    color: aliceblue;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #6d466b;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 300px;
+    border-radius: 5px;
+    
+  }
+
+  hr {
+    max-width: 800px;
+  }
+
+  .navbar {
+    background-color: #6f42c1;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    border-radius: 10px;
+    
+    
+    
+
+  }
+
+
+  .footer {
+    text-align: center;
+    background-color: #1d1d1d;
+    color: aliceblue;
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    align-items: flex-start;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-shadow: 0 -4px 11px -3px #1d1d1d;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+ 
+  * {
+    box-sizing: border-box;
+}
+
+.social_item {
+  transition: transform .2s;
+  max-width: 88%;
+}
+
+.container {
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  width: auto;
+  background-color: #2500305b;
+  color: aliceblue;
+  font-family: Roboto, sans-serif;
+
+}
+
+.video-page {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+  .video {
+    text-align:center;
+
+  }
+
+  .item {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  h4 {
+    color: aliceblue;
+    font-family: Roboto, sans-serif;
+
+  }
+
+  .incontainer, .container {
+    padding: 5px 10px 5px 10px;
+    padding-top: 1px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 510px;
+    text-align: left;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-size: 14px;
+  }
+
+
